@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "624185265545",
+    "project_id": "xpire-srp",
+    "storage_bucket": "xpire-srp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:624185265545:android:7887fde9ee0000a9a8e558",
+        "android_client_info": {
+          "package_name": "com.example.xpire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "624185265545-cmliuqcfikfnschfdoiadqseijtg7qg9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.xpire",
+            "certificate_hash": "f6c619aa1bce4703c36be98731300b4c43d33052"
+          }
+        },
+        {
+          "client_id": "624185265545-15ohhtgd1fqihlgibrv7jea1rln6mjif.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdabMf7Ust0UFNb5m4rdjCTisvhCfdRkM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "624185265545-15ohhtgd1fqihlgibrv7jea1rln6mjif.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
