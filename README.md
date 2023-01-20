@@ -3,5 +3,5 @@ We developped an Android app using Flutter framework with Dart programming as pa
 # Team Members are:
 1. S Chaithanya Krishna
 2. C Janani
-3. S Sahithi
+3. S  Lakshmi Sahithi
 4. S KavyaSree Manohar
